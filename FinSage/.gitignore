@@ -1,0 +1,1 @@
+﻿# Ignore model binaries and derived datasets\n*.joblib\nfinancial_sentiment_*.csv\n# Keep originals explicitly\n!financial_news_events.csv\n!financial_news_events_clean.csv\n# Ignore python cache\n__pycache__/\n*.pyc\n
